@@ -1,0 +1,13 @@
+========================================
+          NTC COFFEE HOUSE RECEIPT       
+========================================
+Customer Name: Harry Potter
+Items Ordered: 5 cups @ ₱120.50 each
+Subtotal: ₱602.50
+VIP Discount: -₱50.00
+----------------------------------------
+Final Total: ₱552.50
+----------------------------------------
+Packaging: 1 box(es) of 4, plus 1 extra cup(s)
+Qualifies for Free Cookie: true
+========================================
