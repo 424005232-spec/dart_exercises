@@ -1,8 +1,13 @@
 # Week 7: Dart Fundamentals Exercise
 
-**Student Name:** Rossel S. Garlit
-**Section:** 3.1
+**Student Name:** Rossel S. Garlit  
+**Section:** 3.1  
 **Course:** NTC_PC16 – Mobile Development w/ Lab  
 
 ## Scenario Description
-A Coffee Shop Order system demonstrating Dart variables, operators, and I/O.
+This Dart console program simulates a Coffee Shop Order system that computes item subtotals, applies VIP discounts, calculates cup packaging requirements, and checks promotional eligibility.
+
+## How to Run
+Run the following command in the project root folder:
+
+dart run
